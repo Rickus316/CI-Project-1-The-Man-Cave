@@ -22,9 +22,35 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 
+<!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
+
 <body class="d-flex flex-column min-vh-100">
     <!-- Navigation -->
-    <div>Navigation</div>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Navbar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">What we do</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Support Resources</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
     <!-- Header with carousel -->
     <header class="container">
@@ -35,7 +61,7 @@
     </header>
 
     <!-- main element to hold all key sections of the home page. It is not part of the grid structure -->
-
+    <!-- flex-grow-1 added to push footer to the bottom of the page as per copilot -->
     <main class="flex-grow-1">
         <!-- Services section -->
         <section class="container">
@@ -50,6 +76,7 @@
     </main>
 
     <!-- Footer/ contact section -->
+    <!-- mt-auto added to push footer to the bottom of the page -->
     <footer class="mt-auto">
         <div class="container">
             <div class="row justify-content-center">
