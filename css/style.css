@@ -60,3 +60,9 @@
     border: 2px solid white;
     background-color: grey;
 } */
+
+.carousel-item img {
+  width: 100%;
+  height: 500px; /* Adjust the height as needed */
+  object-fit: cover; /* This ensures the image covers the entire area without distortion */
+}
