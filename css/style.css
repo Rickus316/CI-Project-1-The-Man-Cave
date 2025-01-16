@@ -63,7 +63,34 @@
     margin-bottom: 1.5rem;
   }
 
-  /* grid visualisation CSS for testing */
+  /* Footer / contact */
+
+#contact {
+  background-color: var(--primary-color);
+  color: white;
+  padding-bottom: 3rem;
+}
+
+#contact h2, h3 {
+  color: white
+}
+
+#contact i{
+  color: white;
+  font-size: 1.2rem;
+  margin-right: 15px;
+}
+
+#contract .social-links i {
+  color: var(--highlight-color);
+  font-size: 1.9rem;
+}
+
+#contact .table-dark * {
+  background-color: transparent;
+}
+
+ /* grid visualisation CSS for testing */
 
 /* .container,
 .row {
@@ -121,3 +148,4 @@
       min-height: 195px;
   }
 }
+
