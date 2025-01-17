@@ -31,6 +31,8 @@ Make the content of the webpage visulally appealing and ensure it is organised.
 Resource Links, provide a grid layout for external links to mental health resources styled with bootstrap to make them stand out (to be added).
 Positive Affirmations, using Bootstrap's text utilities to include a section with uplifting quotes or messages to encourage users (to be added).
 
+Planning Stage:
+
 Step 1: This was to figure out the webpages purpose and the "User Stories"
 
 Webpage Purpose:
@@ -75,8 +77,15 @@ Potential Images (I did consider using AI for these but I didn't like the idea i
 
 ![Screenshot 2025-01-17 104614](https://github.com/user-attachments/assets/434ef5dd-074c-4410-9dc7-f52dae334ab6)
 
+Step 3 - Wireframes (using Balsamiq): Please note I found myself making the scope bigger when using the "Wireframes" and had to cut it back :)
 
+![Screenshot 2025-01-17 104958](https://github.com/user-attachments/assets/8c0efd2a-2b3c-4941-a2bd-1ecf40dc58fb)
 
+Step 4: Documentation (README) - Due to time and this being my first ever coding project I used the README Essential supplied by Code Institute and Microsoft AI Copilot to shape this.
+
+![Screenshot 2025-01-17 105300](https://github.com/user-attachments/assets/c2bdc847-7c6b-4bb1-8e2b-091c86cbf732)
+
+![Screenshot 2025-01-17 105321](https://github.com/user-attachments/assets/c882d989-49bd-4130-9b39-a6082ae5e6d3)
 
 
 
