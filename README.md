@@ -47,6 +47,57 @@ User Stories:
 
 ![Screenshot 2025-01-17 103057](https://github.com/user-attachments/assets/8361d66a-7f2c-4528-be67-a9f4da17e6ca)
 
+Step 1 - conclusions:
+
+![Screenshot 2025-01-17 103605](https://github.com/user-attachments/assets/41876119-7fcb-4977-b3b0-de99c5cb83d4)
+
+Step 2 - Design Decisions:
+
+Font:
+
+![Screenshot 2025-01-17 103846](https://github.com/user-attachments/assets/47766697-2c8b-40bc-b799-a133a54d6cd0)
+
+Color Scheme - I chose the main color to be Green as a green ribbon is used for mental health:
+
+![Screenshot 2025-01-17 104203](https://github.com/user-attachments/assets/ed289a16-29d9-4af1-8df2-5e7f0ba3c46c)
+
+![Screenshot 2025-01-16 093731](https://github.com/user-attachments/assets/659ae8e3-6cfa-4c4e-a24f-c4f2c037a458)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
