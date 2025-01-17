@@ -33,13 +33,19 @@ Positive Affirmations, using Bootstrap's text utilities to include a section wit
 
 Step 1: This was to figure out the webpages purpose and the "User Stories"
 
-![Screenshot 2025-01-17 102316](https://github.com/user-attachments/assets/b6cd47b9-6948-4abd-a870-b749af11ac61)
+Webpage Purpose:
 
-![Screenshot 2025-01-17 102331](https://github.com/user-attachments/assets/eba3272c-1a44-4e36-87b6-3769f521b62d)
+![Screenshot 2025-01-17 102753](https://github.com/user-attachments/assets/b04bc68a-b04f-4644-aa50-eb960d5e8ec0)
 
+![Screenshot 2025-01-17 102815](https://github.com/user-attachments/assets/2b0f79e2-9b90-4532-b2c5-5e6a7c4fec83)
 
+![Screenshot 2025-01-17 102835](https://github.com/user-attachments/assets/6aff5d53-f83c-44db-b3ce-4742d604850e)
 
+![Screenshot 2025-01-17 102859](https://github.com/user-attachments/assets/7e275e6d-37a9-4541-be14-33ea0bab5639)
 
+User Stories:
+
+![Screenshot 2025-01-17 103057](https://github.com/user-attachments/assets/8361d66a-7f2c-4528-be67-a9f4da17e6ca)
 
 
 
