@@ -69,7 +69,7 @@ Potential icons:
 
 ![Screenshot 2025-01-17 104344](https://github.com/user-attachments/assets/afe4f62d-6fe5-4571-8117-be5b9d25294c)
 
-Potential Images (I did consider using AI for these but I didn't like the idea in the end). Also, because I had to scale back my ideas (Oops!) I wasn't able to incorporate all these images BUT I will as I continue to work on this webpage myself.
+Potential Images (I did consider using AI for these but I didn't like the idea in the end). Also, because I had to scale back my ideas (Oops!) I wasn't able to incorporate all these images BUT I will if I continue to work on this webpage myself.
 
 ![Screenshot 2025-01-17 104527](https://github.com/user-attachments/assets/4790dbd0-e0dd-40a7-815a-0349efdc17dc)
 
