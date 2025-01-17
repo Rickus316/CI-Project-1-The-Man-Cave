@@ -76,7 +76,7 @@
         <section id="booking-form" class="container section">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
-                    <form>
+                    <form action="success.html" method="GET"></form>
                         <div class="row">
                             <div class="mb-3">
                                 <label for="name" class="form-label">Name</label>
@@ -91,9 +91,9 @@
                                 <input class="form-control" id="phone" name="phone" type="number" required>
                             </div>
                             <div class="mb-3">
-                                <label for="event-type" class="form-label">Preffed Event</label>
+                                <label for="event-type" class="form-label">Preferred Event</label>
                                 <select id="event-type" class="form-select" name="meeting-date" required>
-                                    <option selected>Select an event</option>
+                                    <option value="">Select an Event</option>
                                     <option value="event1">Tue</option>
                                     <option value="event2">Wed</option>
                                     <option value="event3">Thur</option>

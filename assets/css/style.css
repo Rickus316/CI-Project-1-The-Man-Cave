@@ -1,10 +1,9 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 /* CSS Variables */
 :root {
-  --primary-font: 'Roboto Condensed', sans-serif;
+  --primary-font: 'Roboto+Condensed', sans-serif;
   --secondary-font: 'Inter', cursive;
   --primary-color: green;
   --secondary-color: black;
@@ -25,6 +24,7 @@
     text-transform: uppercase;
   }
 
+   h1, 
    h2 {
     margin-bottom: 2rem;
   }
@@ -41,6 +41,31 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+
+  /* Buttons */
+
+.custom-button-filled {
+  border: 2px solid var(--highlight-color);
+  background-color: var(--highlight-color);
+  color: white;
+}
+
+.custom-button-filled:hover {
+  border: 2px solid var(--secondary-color);
+  background-color: var(--secondary-color);
+  color: white;
+}
+
+.custom-button-outline {
+  border: 3px solid var(--highlight-color);
+  padding: 7px 25px;
+  color: var(--highlight-color)
+}
+
+.custom-button-outline:hover {
+  background-color: var(--highlight-color);
+  color: white
+}
 
   /* Navbar */
 
@@ -59,6 +84,12 @@
   }
 
   /* Services */
+
+  #services .card-footer {
+    font-weight: bold;
+    color: var(--highlight-color);
+    background-color: transparent;
+} 
 
   #services .card {
     margin-bottom: 1.5rem;
@@ -148,23 +179,4 @@
   #services .card-body {
       min-height: 195px;
   }
-}
-
-#contact .table-container {
-  display: flex;
-  justify-content: flex-start; /* Align to the left */
-  align-items: flex-start; /* Align to the top */ 
-  margin-top: 1rem;
-  margin-left: 1rem;
-}
-
-#contact .table-dark {
-  width: 100%;
-  max-width: 600px; /* Adjust as needed */
-  margin: 0;
-}
-
-#contact h3 {
-  margin-left: 1rem; /* Adjust as needed */
-  margin-top: 1rem; /* Adjust as needed */
 }
