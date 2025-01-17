@@ -30,3 +30,21 @@ Information cards using Bootstraps card components to present common mental heal
 Make the content of the webpage visulally appealing and ensure it is organised.
 Resource Links, provide a grid layout for external links to mental health resources styled with bootstrap to make them stand out (to be added).
 Positive Affirmations, using Bootstrap's text utilities to include a section with uplifting quotes or messages to encourage users (to be added).
+
+Step 1: This was to figure out the webpages purpose and the "User Stories"
+
+![Screenshot 2025-01-17 102316](https://github.com/user-attachments/assets/b6cd47b9-6948-4abd-a870-b749af11ac61)
+
+![Screenshot 2025-01-17 102331](https://github.com/user-attachments/assets/eba3272c-1a44-4e36-87b6-3769f521b62d)
+
+
+
+
+
+
+
+
+
+
+
+
