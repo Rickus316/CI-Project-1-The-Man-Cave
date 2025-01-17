@@ -77,7 +77,7 @@ Potential Images (I did consider using AI for these but I didn't like the idea i
 
 ![Screenshot 2025-01-17 104614](https://github.com/user-attachments/assets/434ef5dd-074c-4410-9dc7-f52dae334ab6)
 
-Step 3 - Wireframes (using Balsamiq): Please note I found myself making the scope bigger when using the "Wireframes" and had to cut it back :)
+Step 3 - Wireframes (using Balsamiq): Please note I found myself making the scope bigger when using the "Wireframes" and had to cut it back :) so I used a combination of the Wireframes provided by Code Institute, the walkthrough project "Boardwalk Games", AI (Git Copilot and Microsoft Copilot), https://www.themancaveuk.co.uk/ and The Man Cave Facebook group I'm part of to bring my webpage together.
 
 ![Screenshot 2025-01-17 104958](https://github.com/user-attachments/assets/8c0efd2a-2b3c-4941-a2bd-1ecf40dc58fb)
 
@@ -86,6 +86,8 @@ Step 4: Documentation (README) - Due to time and this being my first ever coding
 ![Screenshot 2025-01-17 105300](https://github.com/user-attachments/assets/c2bdc847-7c6b-4bb1-8e2b-091c86cbf732)
 
 ![Screenshot 2025-01-17 105321](https://github.com/user-attachments/assets/c882d989-49bd-4130-9b39-a6082ae5e6d3)
+
+Step 5 - Get Coding: Be brave, be bold and be you!
 
 
 
