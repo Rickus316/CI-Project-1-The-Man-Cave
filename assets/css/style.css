@@ -47,24 +47,24 @@
 .custom-button-filled {
   border: 2px solid var(--highlight-color);
   background-color: var(--highlight-color);
-  color: white;
+  color: green;
 }
 
 .custom-button-filled:hover {
   border: 2px solid var(--secondary-color);
   background-color: var(--secondary-color);
-  color: white;
+  color: green;
 }
 
 .custom-button-outline {
   border: 3px solid var(--highlight-color);
   padding: 7px 25px;
-  color: var(--highlight-color)
+  color: green;
 }
 
 .custom-button-outline:hover {
   background-color: var(--highlight-color);
-  color: white
+  color: green;
 }
 
   /* Navbar */
