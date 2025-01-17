@@ -97,25 +97,29 @@ Here are a bunch of "Future Additions" (In no particular order) that I'd like to
 
 ![Screenshot 2025-01-17 111759](https://github.com/user-attachments/assets/5631060b-f7f4-4c76-ab17-54a03f5a8774)
 
+Validation and Testing: Unfotunately due to time and me initially making my scope too big - I was unable to make the changes I needed to in this section.
 
+Lighthouse:
 
+![alt text](<Screenshot 2025-01-17 133919-2.png>)
 
+Validator HTML - I had 9 errors on here which I could have amended if I hadn't spent too long on the planning stage by doing a proper debug on my code.
 
+![alt text](<Screenshot 2025-01-17 135624-1.png>)
 
+![alt text](<Screenshot 2025-01-17 135640.png>)
 
+https://validator.w3.org/nu/#textarea
 
+Autoprefixer CSS online
 
+https://autoprefixer.github.io/
 
+Validator CSS - Amazingly I had no errors on this Haha!
 
+https://jigsaw.w3.org/css-validator/validator
 
-
-
-
-
-
-
-
-
+![alt text](<Screenshot 2025-01-17 140020.png>)
 
 
 
