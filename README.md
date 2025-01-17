@@ -87,11 +87,13 @@ Step 4: Documentation (README) - Due to time and this being my first ever coding
 
 ![Screenshot 2025-01-17 105321](https://github.com/user-attachments/assets/c882d989-49bd-4130-9b39-a6082ae5e6d3)
 
-Step 5 - Get Coding: Be brave, be bold and be you!
+Step 5 - Get to Coding: Be brave, be bold and most of all BE YOU!!
 
+![Screenshot 2025-01-17 111724](https://github.com/user-attachments/assets/c2c93357-00dd-417a-a515-1c4ce31c776f)
 
+Here are a bunch of "Future Additions" (In no particular order) that I'd like to add in the future.
 
-
+![Screenshot 2025-01-17 111759](https://github.com/user-attachments/assets/5631060b-f7f4-4c76-ab17-54a03f5a8774)
 
 
 
