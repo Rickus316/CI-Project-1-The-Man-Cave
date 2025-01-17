@@ -1,10 +1,11 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 /* CSS Variables */
 :root {
-  --primary-font: "Roboto+Condensed", sans-serif;
-  --secondary-font: "Inter", cursive;
+  --primary-font: 'Roboto Condensed', sans-serif;
+  --secondary-font: 'Inter', cursive;
   --primary-color: green;
   --secondary-color: black;
   --highlight-color: white;
@@ -149,3 +150,21 @@
   }
 }
 
+#contact .table-container {
+  display: flex;
+  justify-content: flex-start; /* Align to the left */
+  align-items: flex-start; /* Align to the top */ 
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+#contact .table-dark {
+  width: 100%;
+  max-width: 600px; /* Adjust as needed */
+  margin: 0;
+}
+
+#contact h3 {
+  margin-left: 1rem; /* Adjust as needed */
+  margin-top: 1rem; /* Adjust as needed */
+}
