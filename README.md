@@ -63,9 +63,17 @@ Color Scheme - I chose the main color to be Green as a green ribbon is used for 
 
 ![Screenshot 2025-01-16 093731](https://github.com/user-attachments/assets/659ae8e3-6cfa-4c4e-a24f-c4f2c037a458)
 
+Potential icons:
 
+![Screenshot 2025-01-17 104344](https://github.com/user-attachments/assets/afe4f62d-6fe5-4571-8117-be5b9d25294c)
 
+Potential Images (I did consider using AI for these but I didn't like the idea in the end):
 
+![Screenshot 2025-01-17 104527](https://github.com/user-attachments/assets/4790dbd0-e0dd-40a7-815a-0349efdc17dc)
+
+![Screenshot 2025-01-17 104555](https://github.com/user-attachments/assets/2b618205-50a4-451e-a626-5047fea2da4a)
+
+![Screenshot 2025-01-17 104614](https://github.com/user-attachments/assets/434ef5dd-074c-4410-9dc7-f52dae334ab6)
 
 
 
